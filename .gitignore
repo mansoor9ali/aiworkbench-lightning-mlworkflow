@@ -6,10 +6,14 @@
 # General ignores
 .DS_Store
 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+models
+mlruns
+lightning_logs
 
 # Temp directories, notebooks created by jupyterlab
 .ipynb_checkpoints
