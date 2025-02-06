@@ -3,4 +3,6 @@ torch
 torchvision
 torchaudio
 lightning
-lightning-flash
+lightning-flash[text]
+datasets
+mlflow
